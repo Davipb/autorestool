@@ -3,7 +3,7 @@
 `autorestool` sets your screen resolution, launches a game, then sets it back to what it was when the game closes.
 
 ## For normal people
-1. Download [autorestool.exe](https://github.com/Davipb/SkyrimRedirector/releases/download/latest/autorestool.exe) and place it on the same folder as the game executable
+1. Download [autorestool.exe](https://github.com/Davipb/autorestool/releases/download/latest/autorestool.exe) and place it on the same folder as the game executable
 2. Create a shortcut to autorestool.exe and place it on your Desktop (right click file -> Create Shortcut)
 3. Open the shortcut properties (right click -> properties) and add the following values to the **end** of the "Target" field in the "Shortcut" tab (DO NOT REPLACE what's already there, just add to the end):
 
